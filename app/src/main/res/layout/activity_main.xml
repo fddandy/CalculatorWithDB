@@ -34,35 +34,35 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/btnSeven"
+                android:id="@+id/btnOne"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_7"
+                android:text="@string/_1"
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnEight"
+                android:id="@+id/btnTwo"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_8"
+                android:text="@string/_2"
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnNine"
+                android:id="@+id/btnThree"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_9"
+                android:text="@string/_3"
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnDivide"
+                android:id="@+id/btnMultiply"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/divide"
+                android:text="@string/multiply"
                 android:textSize="30sp" />
         </LinearLayout>
 
@@ -96,11 +96,11 @@
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnMultiply"
+                android:id="@+id/btnDivide"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/multiply"
+                android:text="@string/divide"
                 android:textSize="30sp" />
         </LinearLayout>
 
@@ -110,27 +110,27 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/btnOne"
+                android:id="@+id/btnSeven"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_1"
+                android:text="@string/_7"
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnThree"
+                android:id="@+id/btnEight"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_3"
+                android:text="@string/_8"
                 android:textSize="30sp" />
 
             <Button
-                android:id="@+id/btnTwo"
+                android:id="@+id/btnNine"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/_2"
+                android:text="@string/_9"
                 android:textSize="30sp" />
 
             <Button
@@ -149,19 +149,19 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/btnDot"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:text="@string/dot"
-                android:textSize="30sp" />
-
-            <Button
                 android:id="@+id/btnZero"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/_0"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/btnDot"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/dot"
                 android:textSize="30sp" />
 
             <Button
